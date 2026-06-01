@@ -1,0 +1,18 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "title": "КУПЕР",
+      "artist": "SQWOZ BAB",
+      "coverUrl": "https://dorofo.github.io/other/kuper-sqwozbab.jpg",
+      "mp3Url": "https://dorofo.github.io/other/kuper-sqwozbab.mp3"
+    },
+    {
+      "id": 2,
+      "title": "На заре («Альянс» Cover)",
+      "artist": "Баста",
+      "coverUrl": "https://dorofo.github.io/other/na_zare-basta.jpg",
+      "mp3Url": "https://dorofo.github.io/other/na_zare-basta.mp3"
+    }
+  ]
+}
